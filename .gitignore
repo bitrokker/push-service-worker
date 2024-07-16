@@ -40,3 +40,7 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+.vscode
+push-notification-server/node_modules
+push-notification-server/package-lock.json
+package-lock.json
